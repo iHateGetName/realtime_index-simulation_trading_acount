@@ -1,0 +1,4 @@
+api:
+  # xtquant_api_key: "857b1fa0068599ccb191546f86bac28e09d8a727" # 试用已经过期
+  xtquant_api_key: "56711452a7bf8280428a28c06b7a52d551b42c36"
+  tushare_api_key: "ea270697636bc080f29911984165269fb5c18ffc8830b2d3efd64c90"
