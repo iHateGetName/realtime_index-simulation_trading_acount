@@ -38,6 +38,8 @@
 - clear_inventory: 清空某类商品所有持仓
 - auto_trade_stock: 自动监控交易股票，需设定买入价格，止损卖出价格，止盈卖出价格
 - stop_auto_trade_stock: 停止自动交易股票
+- spot_futures_arbitrage: 期货股票套利交易，目前只能做多基差。
+- __str__: 打印当前持仓、账户余额等信息。
 
 用户可以运行print(类对象)来查看当前持仓、订单、账户余额等信息。
 
